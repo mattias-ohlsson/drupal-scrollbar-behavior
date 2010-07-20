@@ -1,4 +1,4 @@
-VERSION = 7.x-0.1-dev
+VERSION = 7.x-0.2-dev
 
 # *DOCUMENTATION*
 # To see a list of typical targets execute "make help"
