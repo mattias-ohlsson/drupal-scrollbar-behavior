@@ -7,7 +7,7 @@ VERSION = 7.x-0.1-dev
 default:
 	@echo "Creating the archive"
 	@tar zcf scrollbar_behavior-$(VERSION).tar.gz scrollbar_behavior
-	@echo "The final archive is in scrollbar_behavior.$(VERSION).tar.gz (remove this file)"
+	@echo "The final archive is in scrollbar_behavior-$(VERSION).tar.gz (remove this file)"
 
 help:
 	@echo "Create archive target"
