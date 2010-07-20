@@ -1,0 +1,9 @@
+; $Id$
+name = Scrollbar Behavior
+version = 7.x-0.1-dev
+description = This module provide an easy way to control the bahavior of the scrollbar.
+package = "Content"
+core = 7.x
+files[] = scrollbar_behavior.module
+files[] = showscrollbar.css
+; files[] = scrollbar_behavior.install
