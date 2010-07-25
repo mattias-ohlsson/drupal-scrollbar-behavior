@@ -1,6 +1,6 @@
 ; $Id$
 name = Scrollbar Behavior
-version = 7.x-0.2-dev
+version = versionPLACEHOLDER
 description = This module provide an easy way to control the bahavior of the scrollbar.
 package = "Content"
 core = 7.x
