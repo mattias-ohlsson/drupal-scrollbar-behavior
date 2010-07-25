@@ -6,9 +6,9 @@ VERSION = 7.x-0.2-dev
 
 default:
 	@echo "Creating the archive"
-	@cp COPYING scrollbar_behavior/
+	@cp COPYING scrollbar_behavior/LICENSE.txt
 	@tar zcf scrollbar_behavior-$(VERSION).tar.gz scrollbar_behavior
-	@rm scrollbar_behavior/COPYING
+	@rm scrollbar_behavior/LICENSE.txt
 	@echo "The final archive is in scrollbar_behavior-$(VERSION).tar.gz (remove this file)"
 
 help:
