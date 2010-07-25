@@ -2,5 +2,5 @@
 // $Id$
 
 function scrollbar_behavior_init() {
-	drupal_add_css(drupal_get_path('module', 'scrollbar') . "/showscrollbar.css");
+  drupal_add_css(drupal_get_path('module', 'scrollbar') . "/showscrollbar.css");
 }
